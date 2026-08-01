@@ -70,9 +70,9 @@ Motivated to support environmental site assessments, remediation programs, ecolo
 
 ---
 
-## 🤝 Professional Affiliations
-- **British Columbia Institute of Agrologists (BCIA)** — Registered Articling Agrologist  
-- **Pacific Regional Society of Soil Science (PRSS)** — Student Member  
+## Professional Designation
+- **British Columbia Institute of Agrologists (BCIA)** — Registered Articling Agrologist  (AAg.) 
+ 
 
 ---
 
@@ -161,18 +161,6 @@ Motivated to support environmental site assessments, remediation programs, ecolo
 ### **Land Use Monitoring (UCC)**
 - Soil & plant tissue sampling  
 - Multi-site environmental data collection  
-
----
-
-## 📁 Work Samples
-*(Upload files to this repository and link them here)*
-
-- QGIS maps  
-- Soil sampling logs  
-- Gas flux charts  
-- Restoration photos  
-- Python scripts  
-- Field documentation samples  
 
 ---
 
